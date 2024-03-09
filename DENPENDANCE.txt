@@ -1,0 +1,3 @@
+pip install customtkinter
+pip install pycryptodome
+pip install opencv-python
